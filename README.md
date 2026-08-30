@@ -26,7 +26,7 @@
 - **데이터의 주파수 스펙트럼 분석**
 
 ## Ordinary Diffrential Equation ##
-- **상미분방정식(ODE) 수치 해석:** 오일러(Euler) 및 룽게-쿠타(Runge-Kutta, RK4) 알고리즘을 구현하여 비선형 진동자 및 사격법(Shooting Method)를 이용한 양자 바닥상태 에너지 측정
+- **상미분방정식(ODE) 수치 해석:** 오일러(Euler) 및 룽게-쿠타(Runge-Kutta, RK4) 알고리즘을 구현하여 비선형 진동자 및 사격법(Shooting Method)를 이용한 양자 조화진동자 바닥상태 에너지 측정
 ![Shooting](./미분방정식1.PNG)
 ![Shooting](./미분방정식2.PNG)
 
