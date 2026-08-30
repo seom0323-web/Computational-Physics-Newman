@@ -9,8 +9,8 @@
 
 ## Numerical Integration ##
 - **조화진동자 위치 및 운동량의 불확정도 계산:** 가우스 구적법을 적용하여 양자 조화진동자의 파동함수 및 위치/운동량 불확정도 계산 그리고 불확정성 원리 구현
-![Uncertainty Principle](./조화진동자1.png)
-![Uncertainty Principle](./조화진동자2.png)
+![Uncertainty Principle](./조화진동자1.PNG)
+![Uncertainty Principle](./조화진동자2.PNG)
 - **Other:** 가우스 구적법을 이용한 디바이(Debye) 열용량 모델 및 2D회절 패턴 모델 구현
 
 ## Linear and Nonlinear Equations ##
