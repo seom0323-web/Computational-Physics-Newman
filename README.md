@@ -21,6 +21,7 @@
 ## Fourier Transformation ##
 - **DFT vs FFT 성능 분석:** 이산 푸리에 변환(DFT)의 시간 복잡도 한계를 직접 확인한 후,
   'scipy.fft' 라이브러리를 도입하여 고속 푸리에 변환(FFT)으로 최적화.
+
 - **데이터의 주파수 스펙트럼 분석**
 
 ## Ordinary Diffrential Equation ##
