@@ -28,3 +28,5 @@
 
 ## Future Implementations ##
 - Simulation of 1D Quantum Wavepacket Scattering at step & Barrier Potentials(Time-dependent Evolution)
+- PDE(Partial Diffrential Equation) Numerical Method(Crank-Nicolson Algorithm for Open Quantum Systems)
+- 
