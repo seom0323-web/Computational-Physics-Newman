@@ -15,6 +15,7 @@
 
 ## Linear and Nonlinear Equations ##
 - **비대칭 양자우물 에너지 준위 수치해석:** 포텐셜의 비대칭성을 해석적으로 먼저 단순화하여  행렬 구성 및 고유값 연산 속도 대폭 단축.
+![Hamiltonian](./행렬연산자.PNG)
 - **라그랑주 점 수치해석** 
 
 ## Fourier Transformation ##
