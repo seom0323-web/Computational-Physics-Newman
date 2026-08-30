@@ -24,7 +24,7 @@
 
 ## Ordinary Diffrential Equation ##
 - **상미분방정식(ODE) 수치 해석:** 오일러(Euler) 및 룽게-쿠타(Runge-Kutta, RK4) 알고리즘을 구현하여 비선형 진동자 및 동영학 시스템의 시간 변화 시뮬레이션
-htps://github.com/seom0323-web/Computational-Physics-Newman/raw/main/double-pendulum.mp4
+(htps://github.com/seom0323-web/Computational-Physics-Newman/raw/main/double-pendulum.mp4)
 
 ## Future Implementations ##
 - Simulation of 1D Quantum Wavepacket Scattering at step & Barrier Potentials(Time-dependent Evolution)
